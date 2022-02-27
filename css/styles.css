@@ -1,0 +1,30 @@
+body {
+  background-color: #c2c5aa;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+h1 {
+  color: #7f4f24;
+  font-size: 60px;
+  font-weight: 300px;
+}
+
+h2 {
+  color: #414833;
+  font-size: 36px;
+}
+
+a {
+  text-decoration: none;
+}
+
+li {
+  list-style-position: inside;
+}
+
+/* Class & IDs */
+
+.anigif {
+  border-radius: 50px;
+}
