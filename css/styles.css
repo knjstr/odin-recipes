@@ -15,6 +15,11 @@ h2 {
   font-size: 36px;
 }
 
+h3 {
+  font-size: 36px;
+  color: #414833;
+}
+
 a {
   text-decoration: none;
 }
@@ -23,8 +28,21 @@ li {
   list-style-position: inside;
 }
 
+li,
+ul {
+  line-height: 20px;
+}
 /* Class & IDs */
 
 .anigif {
   border-radius: 50px;
+}
+
+.photo {
+  height: auto;
+  width: 500px;
+}
+
+.home {
+  font-size: 36px;
 }
